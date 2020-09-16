@@ -1,5 +1,4 @@
 import alpaca_backtrader_api as Alpaca
-import backtrader as bt
 import pytz
 from datetime import datetime
 from local_settings import alpaca_paper
